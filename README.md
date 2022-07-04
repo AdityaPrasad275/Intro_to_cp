@@ -12,6 +12,9 @@ https://cp-algorithms.com/data_structures/disjoint_set_union.html
 Introductory Problems from CSES https://cses.fi/problemset/
 
 My competitve programming profiles in one site - https://www.stopstalk.com/user/profile/tacoblade
+
 or alternatively, 
+
 Codeforces - https://codeforces.com/profile/adityanprasad275
+
 CodeChef - https://www.codechef.com/users/tachoblade
