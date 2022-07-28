@@ -18,5 +18,7 @@ My competitve programming profiles in one site - https://www.stopstalk.com/user/
 or alternatively, 
 
 Codeforces - https://codeforces.com/profile/adityanprasad275
+
 CodeChef - https://www.codechef.com/users/tachoblade
+
 AtCoder - https://atcoder.jp/users/tachoblade?contestType=algo
