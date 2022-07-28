@@ -9,12 +9,14 @@ learned about disjoint set and sparce table
 https://cp-algorithms.com/data_structures/sparse-table.html
 https://cp-algorithms.com/data_structures/disjoint_set_union.html
 
-Introductory Problems from CSES https://cses.fi/problemset/
+Introductory Problems and Dynamic Programming Problem Set From CSES - https://cses.fi/problemset/
+
+Contest discussions - https://docs.google.com/document/d/1gAxROzhlHoFOlTvuMpacnSkVa5eu9NczMaqhAhbPo4Y/edit
 
 My competitve programming profiles in one site - https://www.stopstalk.com/user/profile/tacoblade
 
 or alternatively, 
 
 Codeforces - https://codeforces.com/profile/adityanprasad275
-
 CodeChef - https://www.codechef.com/users/tachoblade
+AtCoder - https://atcoder.jp/users/tachoblade?contestType=algo
